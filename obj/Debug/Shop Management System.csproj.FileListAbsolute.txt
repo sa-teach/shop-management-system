@@ -17,3 +17,21 @@ D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Managemen
 D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.UserModule.resources
 D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\dbHikeShop.mdf
 D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\dbHikeShop_log.ldf
+D:\Workspace\shop-management-system\bin\Debug\dbHikeShop.mdf
+D:\Workspace\shop-management-system\bin\Debug\dbHikeShop_log.ldf
+D:\Workspace\shop-management-system\bin\Debug\Shop Management System.exe.config
+D:\Workspace\shop-management-system\bin\Debug\Shop Management System.exe
+D:\Workspace\shop-management-system\bin\Debug\Shop Management System.pdb
+D:\Workspace\shop-management-system\bin\Debug\Guna.UI2.dll
+D:\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+D:\Workspace\shop-management-system\obj\Debug\Shop_Management_System.LoginForm.resources
+D:\Workspace\shop-management-system\obj\Debug\Shop_Management_System.MainForm.resources
+D:\Workspace\shop-management-system\obj\Debug\Shop_Management_System.Properties.Resources.resources
+D:\Workspace\shop-management-system\obj\Debug\Shop_Management_System.SplashForm.resources
+D:\Workspace\shop-management-system\obj\Debug\Shop_Management_System.UserForm.resources
+D:\Workspace\shop-management-system\obj\Debug\Shop_Management_System.UserModule.resources
+D:\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.GenerateResource.cache
+D:\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+D:\Workspace\shop-management-system\obj\Debug\Shop Man.8C4DF312.Up2Date
+D:\Workspace\shop-management-system\obj\Debug\Shop Management System.exe
+D:\Workspace\shop-management-system\obj\Debug\Shop Management System.pdb
