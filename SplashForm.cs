@@ -1,4 +1,4 @@
-﻿using Guna.UI2.WinForms;
+using Guna.UI2.WinForms;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -30,6 +30,9 @@ namespace Shop_Management_System
                 guna2ProgressBar1.Value = 0;
                 timer1.Stop();
 
+                // После завершения загрузки открываем форму входа
+                LoginForm loginForm = new LoginForm();
+                loginForm.Show();
                 this.Hide();   
             }
         }

@@ -1,0 +1,361 @@
+## Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options directory
+.vs/
+
+## MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Visual Studio cache files
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## Visual Studio Trace Files
+*.e2e
+
+## TFS 2012 Local Workspace
+$tf/
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono auto generated files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## Mac desktop service store files
+.DS_Store
+
+## Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+## SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+## Keep database files in bin/Debug (but ignore in root)
+!bin/Debug/*.mdf
+!bin/Debug/*.ldf
+
+## Backup & report files
+*.bak
+*.tmp
+*.temp
+*~
+
+## Compiled files
+*.exe
+*.dll
+*.pdb
+*.resources
+
+## Keep Guna.UI2.dll in bin/Debug (it's needed for the project)
+!bin/Debug/Guna.UI2.dll
+
+## Visual Studio 2015/2017 cache/options directory
+.vs/
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## Visual Studio Trace Files
+*.e2e
+
+## TFS 2012 Local Workspace
+$tf/
+
+## Guidance Automation Toolkit
+*.gpState
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## TeamCity
+_TeamCity*
+
+## DotCover
+*.dotCover
+
+## AxoCover
+.axoCover/*
+!.axoCover/settings.json
+
+## Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+## NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+## MightyMoose
+*.mm.*
+AutoTest.Net/
+
+## Web workbench
+.sass-cache/
+
+## Installshield output folder
+[Ee]xpress/
+
+## DocProject
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+## Click-Once directory
+publish/
+
+## Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+## Microsoft Azure Web App publish settings
+PublishScripts/
+
+## NuGet Packages Directory
+## Commented out because we want to keep packages.config
+## Uncomment if you want to ignore packages directory
+# packages/
+
+## Windows Azure Build Output
+csx/
+*.build.csdef
+
+## Windows Azure Emulator
+ecf/
+rcf/
+
+## Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+## Visual Studio cache files
+*.VC.db
+*.VC.VC.opendb
+
+## Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+## Including strong name files
+*.snk
+
+## Since there are multiple workflows, uncomment next line to ignore bower_components
+# bower_components/
+
+## RIA/Silverlight projects
+Generated_Code/
+
+## Backup & report files from converting an old project file
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+## SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+## Keep database files in bin/Debug (they are needed for the project)
+!bin/Debug/*.mdf
+!bin/Debug/*.ldf
+
+## Keep Guna.UI2.dll in bin/Debug
+!bin/Debug/Guna.UI2.dll
+
+## Keep packages.config (needed for NuGet restore)
+!packages.config

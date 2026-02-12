@@ -35,3 +35,22 @@ D:\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.Core
 D:\Workspace\shop-management-system\obj\Debug\Shop Man.8C4DF312.Up2Date
 D:\Workspace\shop-management-system\obj\Debug\Shop Management System.exe
 D:\Workspace\shop-management-system\obj\Debug\Shop Management System.pdb
+D:\Dev\Workspace\shop-management-system\bin\Debug\dbHikeShop.mdf
+D:\Dev\Workspace\shop-management-system\bin\Debug\dbHikeShop_log.ldf
+D:\Dev\Workspace\shop-management-system\bin\Debug\Shop Management System.exe.config
+D:\Dev\Workspace\shop-management-system\bin\Debug\Shop Management System.exe
+D:\Dev\Workspace\shop-management-system\bin\Debug\Shop Management System.pdb
+D:\Dev\Workspace\shop-management-system\bin\Debug\Guna.UI2.dll
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Management System.exe.config
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop_Management_System.LoginForm.resources
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop_Management_System.MainForm.resources
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop_Management_System.Properties.Resources.resources
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop_Management_System.SplashForm.resources
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop_Management_System.UserForm.resources
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop_Management_System.UserModule.resources
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.GenerateResource.cache
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Man.8C4DF312.Up2Date
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Management System.exe
+D:\Dev\Workspace\shop-management-system\obj\Debug\Shop Management System.pdb
